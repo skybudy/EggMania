@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\raylib\raylib\src\raylib.h(215,16): warning C4091: 'typedef ': ignored on left of 'Vector2' when no variable is declared
+  (compiling source file 'src/main.cpp')
+  
+  RayLibStarterTemplate.vcxproj -> C:\Users\skybu\Desktop\Github\Group_6\x64\Debug\RayLibStarterTemplateEmpty.exe
